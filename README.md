@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D4N3D
-- 👀 I’m interested in Enduro, Programming, Cycling, AVR, 3D Printing, Gym, PLC
+- 👀 I’m interested in Enduro, Programming, Cycling, AVR, 3D Printing, Gym, PLC, Cyber Security
 - 🌱 I’m currently learning JQuery, Boostrap
 - 💞️ I’m looking to collaborate on any project related to technology 
 - 📫 How to reach me
